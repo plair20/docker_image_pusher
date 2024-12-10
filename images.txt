@@ -5,5 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql:5.7
-rancher/mirrored-flannelcni-flannel-cni-plugin:v1.0.1
-rancher/mirrored-flannelcni-flannel:v0.17.0
+#rancher/mirrored-flannelcni-flannel-cni-plugin:v1.0.1
+#rancher/mirrored-flannelcni-flannel:v0.17.0
+ghcr.io/mailu/nginx:2024.06
