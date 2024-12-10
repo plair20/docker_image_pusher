@@ -8,10 +8,10 @@
 #rancher/mirrored-flannelcni-flannel-cni-plugin:v1.0.1
 #rancher/mirrored-flannelcni-flannel:v0.17.0
 #redis:alpine
-${DOCKER_ORG:-ghcr.io/mailu}/${DOCKER_PREFIX:-}nginx:${MAILU_VERSION:-2024.06}
-${DOCKER_ORG:-ghcr.io/mailu}/${DOCKER_PREFIX:-}unbound:${MAILU_VERSION:-2024.06}
-${DOCKER_ORG:-ghcr.io/mailu}/${DOCKER_PREFIX:-}admin:${MAILU_VERSION:-2024.06}
-${DOCKER_ORG:-ghcr.io/mailu}/${DOCKER_PREFIX:-}dovecot:${MAILU_VERSION:-2024.06}
-${DOCKER_ORG:-ghcr.io/mailu}/${DOCKER_PREFIX:-}postfix:${MAILU_VERSION:-2024.06}
-${DOCKER_ORG:-ghcr.io/mailu}/${DOCKER_PREFIX:-}oletools:${MAILU_VERSION:-2024.06}
-${DOCKER_ORG:-ghcr.io/mailu}/${DOCKER_PREFIX:-}rspamd:${MAILU_VERSION:-2024.06}
+ghcr.io/mailu/nginx:2024.06
+ghcr.io/mailu/unbound:2024.06
+ghcr.io/mailu/admin:2024.06
+ghcr.io/mailu/dovecot:2024.06
+ghcr.io/mailu/postfix:2024.06
+ghcr.io/mailu/oletools:2024.06
+ghcr.io/mailu/rspamd:2024.06
